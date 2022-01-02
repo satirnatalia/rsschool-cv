@@ -3,3 +3,5 @@
 ## Contacts
 ## Main Skills
 ## Code Example
+## Education and courses
+## Languages
