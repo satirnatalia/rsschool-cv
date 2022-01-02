@@ -1,7 +1,8 @@
 # Natalia Satir
 ### Junior Frontend Developer
 ## Contacts
+## About Myself
 ## Main Skills
 ## Code Example
-## Education and courses
+## Education and Courses
 ## Languages
